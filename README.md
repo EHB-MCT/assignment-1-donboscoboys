@@ -1,22 +1,17 @@
-# Your project name
-A short description of your project. 
-
-Next, read this example and adapt it to your project.
-
-If you want to add more sections, please do so after the existing ones (avoid burying your sources under a lot of text!).
-
-Live link: [website.be](website.be) (optional)
-
-## Up & running (optional)
-- This should contain step by step instructions to run your project
-- Login information is mentioned here if applicable.
-
-## Sources 
-
-Given are some examples, delete and replace with your own.
-
-- [Multi auth in Laravel](https://stackoverflow.com/questions/50514738/multi-auth-use-one-page-login-laravel) used in http > controller > LoginController.php (line 18-67)
-- [Audio from ChatGPT](https://chatgpt.com/c/66dae37e-6da8-8001-99ab-245ad328416a) used in resources > music
-- [Chatgpt.com](https://chatgpt.com) ⚠️ this is an invalid example, because it links to a homepage instead of a specific page or issue
-- Generate a ChatGPT share link: options (three dots) > share.
-- If your lecturer still sees these default examples, you're in trouble
+# Unity Project Starter
+## Project Overview
+This is a starter setup for Unity projects. The folder structure is pre-organized for assets, scripts,
+and scenes, allowing for smooth project development.
+## How to Run
+1. Open the project in Unity (version 2022.1 or later).
+2. Open the `Scenes/Main.unity` scene and press "Play" to start the game.
+## Folder Structure
+- `Assets/`: All assets such as prefabs, scripts, models, and UI elements.
+- `Scenes/`: Contains Unity scene files.
+- `Scripts/`: Game logic scripts.
+- `Art/`: Contains textures and models used for the game.
+- `Plugins/`: For external libraries or assets.
+- `UI/`: User interface assets.
+## Attribution & License
+All code is MIT licensed. Please review any third-party assets' licenses in the `Assets/` folder for
+proper attribution.
